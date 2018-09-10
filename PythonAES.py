@@ -2,7 +2,7 @@
 """
 Created on Thu Aug 16 16:34:27 2018
 
-@author: frank
+@author: YapengXie
 """
 from Crypto.Cipher import AES 
 import binascii
