@@ -2,7 +2,7 @@
 """
 Created on Sat Aug 11 19:05:01 2018
 
-@author: frank
+@author: Yapeng Xie 
 """
 
 from Crypto.Cipher import DES
